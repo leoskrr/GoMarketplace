@@ -2,7 +2,7 @@
     <img alt="BeTheHero" title="#BeTheHero" src=".github/cover-gm.png" width="1000px"/>
 </h1>
 
-<h3 align="center"> 
+<h3 align="center">
 	Aplicativo de compras 🛒
 </h3>
 <p align="center">
@@ -11,7 +11,7 @@
   <a href="https://github.com/leoskrr/GoMarketplace/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/badge/last%20commit-july-yellowgreen">
   </a>
-  
+
   <img src="https://img.shields.io/badge/tests-100%25-brightgreen"/>
 
 <p align="center">
@@ -26,8 +26,7 @@
 O GoMarketplace é um aplicativo (Android e iOS) para compra de produtos utilizando FakeAPI. O mesmo foi construído durante o Bootcamp GoStack 12 da <a href="https://www.rocketseat.com.br">Rocketseat</a>
 
 <p align="center">
-    <img alt="Login-Page" title="Login-Page" src=".github/sc-01.png" width="250px" />
-    <img alt="Login-Page" title="Login-Page" src=".github/sc-02.png" width="250px" />
+    <img alt="app gif" src=".github/example.gif" width="250px" />
 </p>
 
 
@@ -65,7 +64,7 @@ $ yarn ios
 
 ### Testes
 
-Para executar os testes, digite, ainda no terminal: 
+Para executar os testes, digite, ainda no terminal:
 ```bash
 $ yarn test
 ```
